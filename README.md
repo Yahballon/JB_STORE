@@ -37,7 +37,8 @@ The application catalog is maintained separately in:
 
 **https://github.com/Yahballon/JB_STORE_REPO**
 
-JB_STORE reads the application metadata provided by JB_STORE_REPO and uses it to display available homebrew applications and their download information.
+JB_STORE needs the metadata provided by JB_STORE_REPO and uses it to display available homebrew applications and their download information.
+Download it.
 
 This keeps the **store application** and the **software catalog** separate.
 
