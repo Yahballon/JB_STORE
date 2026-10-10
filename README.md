@@ -22,6 +22,14 @@ The application reads its software catalog from the separate **JB_STORE_REPO** r
 **JB_STORE is for homebrew — not piracy.**
 
 ---
+# Screenshots
+<p align="center">
+  <img src="screenshots/screenshot0.png">
+</p>
+
+<p align="center">
+  <img src="screenshots/screenshot1.png">
+</p>
 
 ## Repository
 
@@ -499,15 +507,6 @@ It does not grant rights to:
 Third-party projects retain their respective licenses.
 
 ---
-
-# Related project
-<p align="center">
-  <img src="screenshots/screenshot0.png">
-</p>
-
-<p align="center">
-  <img src="screenshots/screenshot1.png">
-</p>
 
 ### JB_STORE_REPO
 
