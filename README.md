@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="dist/20261010_095802_00404102.png" width="850" alt="JB_STORE Screenshot 1">
+  <img src="screenshots/background.png">
 </p>
 
 ---
@@ -27,7 +27,7 @@ The application reads its software catalog from the separate **JB_STORE_REPO** r
 
 The application catalog is maintained separately in:
 
-**https://github.com/Globaleliteee/JB_STORE_REPO**
+**https://github.com/Yahballon/JB_STORE_REPO**
 
 JB_STORE reads the application metadata provided by JB_STORE_REPO and uses it to display available homebrew applications and their download information.
 
@@ -170,7 +170,7 @@ Download the latest JB_STORE release and install/copy it using the method suppor
 
 After starting JB_STORE, the application retrieves its available homebrew catalog from:
 
-**https://github.com/Globaleliteee/JB_STORE_REPO**
+**https://github.com/Yahballon/JB_STORE_REPO**
 
 An internet connection is required to retrieve repository updates and download homebrew applications.
 
@@ -283,7 +283,7 @@ Users must provide their own legally obtained game files or other required data.
 
 Applications displayed by JB_STORE are maintained through:
 
-**https://github.com/Globaleliteee/JB_STORE_REPO**
+**https://github.com/Yahballon/JB_STORE_REPO**
 
 Contributions should include accurate information such as:
 
@@ -502,18 +502,18 @@ Third-party projects retain their respective licenses.
 
 # Related project
 <p align="center">
-  <img src="dist/20261010_095816_00068356.png" width="850" alt="JB_STORE Screenshot 2">
+  <img src="screenshots/screenshot0.png">
 </p>
 
 <p align="center">
-  <img src="dist/20261010_095822_00002617.png" width="850" alt="JB_STORE Screenshot 3">
+  <img src="screenshots/screenshot1.png">
 </p>
 
 ### JB_STORE_REPO
 
 Homebrew repository used by JB_STORE:
 
-**https://github.com/Globaleliteee/JB_STORE_REPO**
+**https://github.com/Yahballon/JB_STORE_REPO**
 
 The repository contains the metadata used to populate the JB_STORE application catalog.
 
