@@ -1,7 +1,7 @@
 
 <p align="center">
 
-# JB_STORE
+# JB_STORE is a passion project, not a piracy project.
 
 ### PS5 Homebrew Store
 
